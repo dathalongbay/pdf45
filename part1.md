@@ -15,6 +15,10 @@ Kết quả :
 
 ![image](https://user-images.githubusercontent.com/6966136/162579486-8f3ea3be-ae6d-42d5-bfff-0243b78abf9d.png)
 
+# thẻ img 
+![image](https://user-images.githubusercontent.com/6966136/162579521-eeb013e8-7ccf-42ef-af09-c04bfb4dd1e8.png)
+
+
 
 
 
