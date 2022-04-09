@@ -7,14 +7,8 @@ Kết quả :
 
 ![image](https://user-images.githubusercontent.com/6966136/162578520-247fd5af-0425-4b76-b528-a3923d1e7b4d.png)
 
-```
-các bạn gõ :
-h1+tab
-h2+tab
-h3+tab
-h4+tab
-h5+tab
-h6+tab
-chúng ta có 6 thẻ tiêu đề văn bản
-trong html
-```
+![image](https://user-images.githubusercontent.com/6966136/162579394-22430f45-3825-49c2-9daf-93e68213b8da.png)
+
+![image](https://user-images.githubusercontent.com/6966136/162579414-cac05268-9d73-4ac9-8197-cb954c1cf286.png)
+
+
