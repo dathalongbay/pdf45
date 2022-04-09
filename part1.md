@@ -7,5 +7,5 @@ Kết quả :
 
 ![image](https://user-images.githubusercontent.com/6966136/162578520-247fd5af-0425-4b76-b528-a3923d1e7b4d.png)
 
-| Syntax      | Description |
-| ----------- | ----------- |
+| Syntax      | 
+| ----------- |
