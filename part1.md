@@ -18,6 +18,9 @@ Kết quả :
 # thẻ img 
 ![image](https://user-images.githubusercontent.com/6966136/162579521-eeb013e8-7ccf-42ef-af09-c04bfb4dd1e8.png)
 
+![image](https://user-images.githubusercontent.com/6966136/162579539-9e24c4fb-1bea-4a2a-846a-cc6480d12d3e.png)
+
+
 
 
 
