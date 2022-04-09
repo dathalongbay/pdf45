@@ -7,7 +7,7 @@ Kết quả :
 
 ![image](https://user-images.githubusercontent.com/6966136/162578520-247fd5af-0425-4b76-b528-a3923d1e7b4d.png)
 
-<pre style="padding: 5px; background-color:  orange; color: white;">
+<div style="padding: 5px; background-color:  orange; color: white;">
         các bạn gõ :
         h1+tab
         h2+tab
@@ -17,4 +17,4 @@ Kết quả :
         h6+tab
         chúng ta có 6 thẻ tiêu đề văn bản
         trong html
-    </pre>
+    </div>
