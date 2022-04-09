@@ -7,14 +7,4 @@ Kết quả :
 
 ![image](https://user-images.githubusercontent.com/6966136/162578520-247fd5af-0425-4b76-b528-a3923d1e7b4d.png)
 
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
+| Syntax      | Description |
