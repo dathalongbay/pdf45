@@ -10,5 +10,8 @@ Kết quả :
 ![image](https://user-images.githubusercontent.com/6966136/162579394-22430f45-3825-49c2-9daf-93e68213b8da.png)
 
 ![image](https://user-images.githubusercontent.com/6966136/162579414-cac05268-9d73-4ac9-8197-cb954c1cf286.png)
+# thẻ p
+![image](https://user-images.githubusercontent.com/6966136/162579461-bb960e3c-a4d4-4b1b-af53-eeba78879bc1.png)
+
 
 
